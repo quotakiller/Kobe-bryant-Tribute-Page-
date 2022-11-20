@@ -1,0 +1,108 @@
+
+ * {
+    box-sizing: border-box;
+  }
+  
+  
+  img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  justify-content: center;
+  }
+  
+  main {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+   /* background-color
+   #f2c627; */
+  background: linear-gradient(90deg, rgb(54, 22, 75) 50%, rgb(248, 186, 49)50%);
+  
+  font-family: Valencia Serial Medium Italic;
+  
+  }
+  
+  .second{
+  display: block;
+  max-width: 100%;
+  height: 200px;
+  justify-content: center;
+  padding: 0px;
+  margin: 0 auto;
+  } 
+  
+  .firsttitle{
+  float: left;
+  padding-left: 90px;
+  font-family: Brush Script MT;
+  color: rgb(248, 186, 49);
+  font-size: 40px;
+  }
+  
+  .secondtitle {
+  float: right;
+  padding-right: 90px;
+  font-family: Brush Script MT;
+  color: rgb(54, 22, 75);
+  font-size: 40px;
+  }
+  
+  .imgcap {
+    float: right;
+    font-family: fantasy;
+    font-style: bold;
+    padding-right:30px;
+    color: rgb(54, 22, 75);
+    font-size: 17px;
+    
+  
+  }
+  
+  #tribute-info {
+    text-align: left;
+    font-family: fantasy;
+    font-style: bold;
+    padding-left: 200px;
+    color: rgb(248, 186, 49); 
+  }
+  
+  
+  .discript1 {
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(248, 186, 49);
+    font-size: 20px;
+    padding-right: 55%;
+    border: none;
+    margin-top: 90px;
+    
+  }
+  
+  .third{
+  display: block;
+  max-width: 20%;
+  margin-left: 1000px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  } 
+  
+  .quote {
+    text-align: center;
+    font-family: Brush Script MT;
+    color: rgb(54, 22, 75);
+    font-size: 25px;
+    padding-left: 55%;
+    padding-top: -800px;
+    padding-bottom: 190px;
+  
+    }
+  
+    #inline {
+    width: unset;
+    margin: 0 0.5em -150 0;
+    vertical-align: center;
+  
+    }
+  
+    
